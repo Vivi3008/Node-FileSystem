@@ -1,0 +1,82 @@
+[{
+        "autores": [
+            "Eckhart Tolle"
+        ],
+        "_id": "5fe0bf29460be63a5a6fef20",
+        "titulo": "O poder do Agora",
+        "editora": "Sextante",
+        "foto": "https://bit.ly/2Ji3XAU",
+        "__v": 0
+    },
+    {
+        "autores": [
+            "Carol S Dweck"
+        ],
+        "_id": "5fe0dbe216b7bc1889cc870c",
+        "titulo": "Mindset - A nova Psicologia do Sucesso!",
+        "editora": "Objetiva",
+        "foto": "https://bit.ly/38vn5UD",
+        "__v": 0
+    },
+    {
+        "autores": [
+            "Mark Manson"
+        ],
+        "_id": "5fe0de996506311cbc8de231",
+        "titulo": "A sutil arte de ligar o Foda-se",
+        "editora": "Intrínseca",
+        "foto": "https://bit.ly/3hqtWTl",
+        "__v": 0
+    },
+    {
+        "autores": [
+            "Collin j Ihrig"
+        ],
+        "_id": "5fe1efc1f93aa2118f9aa990",
+        "titulo": "Pro NodeJs para Desenvolvedores",
+        "editora": "Apress",
+        "foto": "https://bit.ly/38pxu44",
+        "__v": 0
+    },
+    {
+        "autores": [
+            "Leandro Karnal",
+            "Pe Fábio de Melo"
+        ],
+        "_id": "5fe1fe1538162220719adcfe",
+        "titulo": "Crer ou não Crer",
+        "editora": "Planeta",
+        "foto": "https://bit.ly/34E9hpM",
+        "__v": 0
+    },
+    {
+        "autores": [
+            "Martha Medeiros"
+        ],
+        "_id": "5fe34f586c13b83e7f8899e8",
+        "titulo": "Doidas e Santas",
+        "editora": "L&PM",
+        "foto": "https://bit.ly/2WDtU0D",
+        "__v": 0
+    },
+    {
+        "autores": [
+            "Osho"
+        ],
+        "_id": "5fe492df913c9800215e7bda",
+        "titulo": "Acredite no Amor",
+        "editora": "Alaúde",
+        "foto": "https://bit.ly/3hem7Qo",
+        "__v": 0
+    },
+    {
+        "autores": [
+            "Yuval Noah Harari"
+        ],
+        "_id": "5fecc5fb61266800218d0b9a",
+        "titulo": "Sapiens - Uma breve história da humanidade",
+        "editora": "Companhia das Letras",
+        "foto": "https://m.media-amazon.com/images/I/71uzVVfz47L._AC_UY218_.jpg",
+        "__v": 0
+    }
+]
